@@ -1,0 +1,15 @@
+﻿  Source-1A.cpp
+C:\GLP\Project1\Source-1A.cpp(253,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\Project1\Source-1A.cpp(253,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\Project1\Source-1A.cpp(298,59): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\GLP\Project1\Source-1A.cpp(356,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\Project1\Source-1A.cpp(356,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\Project1\Source-1A.cpp(376,18): warning C4566: character represented by universal-character-name '\u039A' cannot be represented in the current code page (1252)
+C:\GLP\Project1\Source-1A.cpp(376,18): warning C4566: character represented by universal-character-name '\u03B5' cannot be represented in the current code page (1252)
+C:\GLP\Project1\Source-1A.cpp(376,18): warning C4566: character represented by universal-character-name '\u03C1' cannot be represented in the current code page (1252)
+C:\GLP\Project1\Source-1A.cpp(376,18): warning C4566: character represented by universal-character-name '\u03B4' cannot be represented in the current code page (1252)
+C:\GLP\Project1\Source-1A.cpp(376,18): warning C4566: character represented by universal-character-name '\u03B9' cannot be represented in the current code page (1252)
+C:\GLP\Project1\Source-1A.cpp(376,18): warning C4566: character represented by universal-character-name '\u03C3' cannot be represented in the current code page (1252)
+C:\GLP\Project1\Source-1A.cpp(376,18): warning C4566: character represented by universal-character-name '\u03C2' cannot be represented in the current code page (1252)
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Project1.vcxproj -> C:\GLP\Project1\x64\Debug\Project1.exe
