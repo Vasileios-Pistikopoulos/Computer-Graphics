@@ -1,0 +1,13 @@
+uniform sampler2D textureSampler;
+uniform bool useTexture;
+
+in vec2 UV;
+out vec4 color;
+
+void main() {
+    if (useTexture) {
+        color = texture(textureSampler, UV);
+    } else {
+        color = vec4(1.0, 1.0, 1.0, 1.0); // Fallback color
+    }
+}
